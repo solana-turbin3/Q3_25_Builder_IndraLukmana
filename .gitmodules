@@ -4,3 +4,9 @@
 [submodule "turbin3_Q3_indralukmana_week0_prerequisite-rust"]
 	path = turbin3_Q3_indralukmana_week0_prerequisite-rust
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week0_prerequisite-rust.git
+[submodule "turbin3_Q3_indralukmana_week1_spl"]
+	path = turbin3_Q3_indralukmana_week1_spl
+	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week1_spl.git
+[submodule "turbin3_Q3_indralukmana_week1_nft"]
+	path = turbin3_Q3_indralukmana_week1_nft
+	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week1_nft.git
