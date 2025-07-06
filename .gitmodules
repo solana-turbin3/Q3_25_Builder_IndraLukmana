@@ -1,0 +1,6 @@
+[submodule "turbin3_Q3_indralukmana_week0_prerequisite-typescript"]
+	path = turbin3_Q3_indralukmana_week0_prerequisite-typescript
+	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week0_prerequisite-typescript.git
+[submodule "turbin3_Q3_indralukmana_week0_prerequisite-rust"]
+	path = turbin3_Q3_indralukmana_week0_prerequisite-rust
+	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week0_prerequisite-rust.git
