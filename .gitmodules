@@ -1,13 +1,13 @@
-[submodule "turbin3_Q3_indralukmana_week0_prerequisite-typescript"]
+[submodule "week0_prerequisite-typescript"]
 	path = week0_prerequisite-typescript
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week0_prerequisite-typescript.git
-[submodule "turbin3_Q3_indralukmana_week0_prerequisite-rust"]
+[submodule "week0_prerequisite-rust"]
 	path = week0_prerequisite-rust
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week0_prerequisite-rust.git
-[submodule "turbin3_Q3_indralukmana_week1_spl"]
+[submodule "week1_spl"]
 	path = week1_spl
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week1_spl.git
-[submodule "turbin3_Q3_indralukmana_week1_nft"]
+[submodule "week1_nft"]
 	path = week1_nft
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week1_nft.git
 [submodule "week2_vault"]
