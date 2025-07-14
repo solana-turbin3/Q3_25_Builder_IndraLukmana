@@ -13,3 +13,6 @@
 [submodule "week2-vault"]
 	path = week2-vault
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week2_vault.git
+[submodule "week2-escrow"]
+	path = week2-escrow
+	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week2_escrow.git
