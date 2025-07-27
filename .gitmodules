@@ -19,3 +19,6 @@
 [submodule "week2-amm"]
 	path = week2-amm
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week2_amm.git
+[submodule "week3-staking"]
+	path = week3-staking
+	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week3_staking.git
