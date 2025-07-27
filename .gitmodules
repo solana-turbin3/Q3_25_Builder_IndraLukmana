@@ -22,3 +22,6 @@
 [submodule "week3-staking"]
 	path = week3-staking
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week3_staking.git
+[submodule "week3-marketplace"]
+	path = week3-marketplace
+	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week3_marketplace.git
