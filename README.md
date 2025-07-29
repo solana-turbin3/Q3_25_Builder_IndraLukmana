@@ -17,6 +17,10 @@ The repository is split into the following modules:
 * [`week1-spl`](./week1-spl): Working with the Solana Program Library (SPL), focusing on token programs.
 * [`week1-nft`](./week1-nft): Exploring Non-Fungible Tokens (NFTs) on Solana.
 * [`week2-vault`](./week2-vault): Building a secure vault program using the Anchor framework.
+* [`week2-escrow`](./week2-escrow): Escrow program using Anchor framework.
+* [`week2-amm`](./week2-amm): AMM (Automated Market Maker) program using Anchor framework.
+* [`week3-maketplace`](./week3-maketplace): Marketplace program using Anchor framework.
+* [`week3-staking`](./week3-staking): Staking program using Anchor framework.
 
 Feel free to explore the individual module directories to see the code and projects for each week!
 
