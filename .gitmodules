@@ -25,3 +25,6 @@
 [submodule "week3-marketplace"]
 	path = week3-marketplace
 	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_week3_marketplace.git
+[submodule "capstone"]
+	path = capstone
+	url = git@github.com:indralukmana/turbin3_Q3_indralukmana_capstone.git
