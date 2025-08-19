@@ -16,12 +16,46 @@ submodules head into [Working with Git Submodules](#working-with-git-submodules)
 section on the bottom for a quick guide on how to clone and update the
 submodules.
 
-## Modules
+## Capstone Project: Gamified SRS for Solana Developers - Proof of Discipline
 
-The repository is split into the modules:
+The final project of the Turbin3 Q3 program, this is a Gamified Spaced
+Repetition System (SRS) tailored for Solana developers. It features a unique
+"Proof of Discipline" mechanism built on the Solana blockchain with Anchor.
+Users commit SOL to a vault, perform daily on-chain check-ins to maintain a
+learning streak, and upon completion, can withdraw their deposit and mint a
+verifiable NFT credential.
 
-- [`capstone`](./capstone): The final capstone project of the Turbin3 Q3
-  program, devnet deployed application built using the skills learned.
+**Link to the project: [Gamified SRS for Solana Developers](./capstone)**
+
+### Highlights
+
+- **Dual-Program Design:** A modular architecture featuring two distinct Anchor
+  programs:
+  - `srs-vault`: Manages the core "Proof of Discipline" logic, including SOL
+    deposits, daily check-ins, and streak tracking.
+  - `nft-minter`: A permissionless program that mints a verifiable NFT
+    credential upon successful commitment completion, using the Metaplex Core
+    standard.
+- **Secure Cross-Program Invocation (CPI):** The `srs-vault` program securely
+  invokes the `nft-minter` program to create a `MintPermit` PDA, ensuring that
+  NFTs can only be minted after a user has fulfilled their on-chain commitment.
+- **Comprehensive Test Suite:** Includes rigorous unit and integration tests
+  built with `vitest`, `@solana/kit`, and `solana-kite`, integrated through
+  `codama` covering the full end-to-end user lifecycle from vault initialization
+  to NFT minting.
+- **Detailed Documentation:** The project is supported by extensive
+  documentation.
+  - **[Project Brief](./capstone/docs/brief.md):** Outlines the project's
+    vision, goals, and scope.
+  - **[Product Requirements Document (PRD)](./capstone/docs/prd.md):** Defines
+    the functional and non-functional requirements.
+  - **[Architecture Document](./capstone/docs/architecture.md):** Provides a
+    detailed technical blueprint of the system.
+
+## Weekly Modules
+
+The repository is also split into the following weekly modules:
+
 - [`week0-typescript`](./week0-typescript): Prerequisite works for interacting
   with the Solana blockchain using TypeScript.
 - [`week0-rust`](./week0-rust): Prerequisite works for building Solana programs
@@ -34,7 +68,7 @@ The repository is split into the modules:
 - [`week2-escrow`](./week2-escrow): Escrow program using Anchor framework.
 - [`week2-amm`](./week2-amm): AMM (Automated Market Maker) program using Anchor
   framework.
-- [`week3-maketplace`](./week3-maketplace): Marketplace program using Anchor
+- [`week3-marketplace`](./week3-marketplace): Marketplace program using Anchor
   framework.
 - [`week3-staking`](./week3-staking): Staking program using Anchor framework.
 
