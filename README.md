@@ -25,7 +25,7 @@ Users commit SOL to a vault, perform daily on-chain check-ins to maintain a
 learning streak, and upon completion, can withdraw their deposit and mint a
 verifiable NFT credential.
 
-**Link to the project: [Gamified SRS for Solana Developers](./capstone)**
+**Link to the project: [Gamified SRS for Solana Developers](https://github.com/indralukmana/turbin3_Q3_indralukmana_capstone)**
 
 ### Highlights
 
@@ -45,32 +45,32 @@ verifiable NFT credential.
   to NFT minting.
 - **Detailed Documentation:** The project is supported by extensive
   documentation.
-  - **[Project Brief](./capstone/docs/brief.md):** Outlines the project's
+  - **[Project Brief](https://github.com/indralukmana/turbin3_Q3_indralukmana_capstone/blob/main/docs/brief.md):** Outlines the project's
     vision, goals, and scope.
-  - **[Product Requirements Document (PRD)](./capstone/docs/prd.md):** Defines
+  - **[Product Requirements Document (PRD)](https://github.com/indralukmana/turbin3_Q3_indralukmana_capstone/blob/main/docs/prd.md):** Defines
     the functional and non-functional requirements.
-  - **[Architecture Document](./capstone/docs/architecture.md):** Provides a
+  - **[Architecture Document](https://github.com/indralukmana/turbin3_Q3_indralukmana_capstone/blob/main/docs/architecture.md):** Provides a
     detailed technical blueprint of the system.
 
 ## Weekly Modules
 
 The repository is also split into the following weekly modules:
 
-- [`week0-typescript`](./week0-typescript): Prerequisite works for interacting
+- [`week0-typescript`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week0_prerequisite-typescript): Prerequisite works for interacting
   with the Solana blockchain using TypeScript.
-- [`week0-rust`](./week0-rust): Prerequisite works for building Solana programs
+- [`week0-rust`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week0_prerequisite-rust): Prerequisite works for building Solana programs
   using Rust.
-- [`week1-spl`](./week1-spl): Working with the Solana Program Library (SPL),
+- [`week1-spl`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week1_spl): Working with the Solana Program Library (SPL),
   focusing on token programs.
-- [`week1-nft`](./week1-nft): Exploring Non-Fungible Tokens (NFTs) on Solana.
-- [`week2-vault`](./week2-vault): Building a secure vault program using the
+- [`week1-nft`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week1_nft): Exploring Non-Fungible Tokens (NFTs) on Solana.
+- [`week2-vault`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week2_vault): Building a secure vault program using the
   Anchor framework.
-- [`week2-escrow`](./week2-escrow): Escrow program using Anchor framework.
-- [`week2-amm`](./week2-amm): AMM (Automated Market Maker) program using Anchor
+- [`week2-escrow`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week2_escrow): Escrow program using Anchor framework.
+- [`week2-amm`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week2_amm): AMM (Automated Market Maker) program using Anchor
   framework.
-- [`week3-marketplace`](./week3-marketplace): Marketplace program using Anchor
+- [`week3-marketplace`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week3_marketplace): Marketplace program using Anchor
   framework.
-- [`week3-staking`](./week3-staking): Staking program using Anchor framework.
+- [`week3-staking`](https://github.com/indralukmana/turbin3_Q3_indralukmana_week3_staking): Staking program using Anchor framework.
 
 Feel free to explore the individual module directories to see the code and
 projects for each week!
